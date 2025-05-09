@@ -1,0 +1,8 @@
+vendor_action,action
+Allow,allowed
+Permit,allowed
+Discard,blocked
+Refuse,blocked
+Terminate,blocked
+Wait for further actions,blocked
+Wait for authentication,blocked

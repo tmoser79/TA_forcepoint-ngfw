@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "Technology Add-On for Forcepoint NGFW",
+    "id": {
+      "group": null,
+      "name": "TA_forcepoint-ngfw",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "Tomas Moser",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "Unoffical TA with seach-time parsing for CIM compliance for Forcepoint NGFW logs in XML.",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "inputGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  },
+  "supportedDeployments": [
+    "*"
+  ],
+  "targetWorkloads": [
+    "*"
+  ]
+}

@@ -1,0 +1,14 @@
+[eventtypes/forcepoint_firewall]
+owner = admin
+version = 9.4.1
+modtime = 1746699594.714092000
+
+[tags/eventtype%3Dforcepoint_firewall]
+owner = admin
+version = 9.4.1
+modtime = 1746736480.837845000
+
+[props/forcepoint%3Angfw]
+owner = admin
+version = 9.4.1
+modtime = 1746737397.058174000
